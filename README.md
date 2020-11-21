@@ -22,6 +22,7 @@ PayPal.
 ● The growth of digital payment technologies will provide many employment opportunities, many
 of which are entry level (Search, for example, Indeed.com for “digital payment technologies”)<h3>
   
- 
-​
-    * **Case study content:** Content for the case study
+ <h4> Here is the content of the Case Study<h4>
+  <h4> Payment transactions are more secure due to the concept of Payment Tokenisation. The Payment Tokenisation Specification provides an interoperable Technical Framework that will benefit Acquirers, Merchants, Card Issuers, and Cardholders. This Technical Framework describes a global Payment Tokenisation ecosystem that overlays and interoperates with existing payment ecosystems to support digital commerce and new methods of payment.
+    
+    <h4>
