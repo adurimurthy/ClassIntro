@@ -29,6 +29,4 @@ Apple's notable strength is scale and distribution to it’s large customer base
 	
    * What is the prognosis for this company? Where do they expect to be in the future?
  
-Apple is now a $2 Trillion company and has no signs of slowing down even in the midst of the pandemic. Apple is expected to disrupt and invent future technology for years to come.
-
-    <h4>
+Apple is now a $2 Trillion company and has no signs of slowing down even in the midst of the pandemic. Apple is expected to disrupt and invent future technology for years to come.<h4>
