@@ -12,8 +12,8 @@ Competitors: Paypal, Venmo, Zelle<h2>
 ● The digital payments that Apple Pay supports is one of the core activities of fintech
 ● The growth of digital payment technologies will provide many employment opportunities, many
 of which are entry level (Search, for example, Indeed.com for “digital payment technologies”)<h3>
-
-   <h4>
+	
+   <h3>
    * How does this company use technology to their advantage? Why are they considered a FinTech company?
 ​It allows consumers to use IOS apps and wearable devices like the apple watch to make payments in person using the digital wallet. Apple Pay uses near field communication (NFC) technology to take payments from your phone to the terminal. Contactless payment makes it easy and simple to check out and go. This is considerably what makes it a Fintech company using the software to provide financial services. 
  
@@ -25,4 +25,5 @@ Apple's notable strength is scale and distribution to it’s large customer base
 	
    * What is the prognosis for this company? Where do they expect to be in the future?
  
-Apple is now a $2 Trillion company and has no signs of slowing down even in the midst of the pandemic. Apple is expected to disrupt and invent future technology for years to come.<h4>
+Apple is now a $2 Trillion company and has no signs of slowing down even in the midst of the pandemic. Apple is expected to disrupt and invent future technology for years to come.
+<h3>
