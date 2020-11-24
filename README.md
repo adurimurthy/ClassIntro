@@ -32,5 +32,4 @@ Apple's notable strength is scale and distribution to it’s large customer base
  
 Apple is now a $2 Trillion company and has no signs of slowing down even in the midst of the pandemic. Apple is expected to disrupt and invent future technology for years to come.
 <h3>
-	
-	https://github.com/adurimurthy/ClassIntro/issues/2#issue-749309831
+
