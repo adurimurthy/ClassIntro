@@ -24,6 +24,10 @@ Apple has often been the leader in new technologies and Apple pay is no differen
 Apple's notable strength is scale and distribution to it’s large customer base with 1.3 Billion active devices. Critics have expressed challenges however with Apple’s company of exclusivity.
 	
    * What is the prognosis for this company? Where do they expect to be in the future?
+   
+  <h3> Behind the Scene technology used by Apple:
+	Apply Pay is based on the EMV payment tokenization which is a cool way to build safety as the payment transaction happens. The real data of the credit card or any sensitive data is never shared but a derived token is created which ensures maximum possible safety in payment transactions. If you wan to   What is an EMV® Payment Token? ==> Visit this site for details: https://www.emvco.com/emv-technologies/payment-tokenisation/
+
  
 Apple is now a $2 Trillion company and has no signs of slowing down even in the midst of the pandemic. Apple is expected to disrupt and invent future technology for years to come.
 <h3>
