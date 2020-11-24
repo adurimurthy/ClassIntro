@@ -3,6 +3,8 @@
   <h2> Apple Pay is arguably the leading mobile payment and digital wallet service. It allows users to make payments in person, in iOS apps, and on the web. It is supported on the iPhone, Apple Watch, iPad, and Mac. 
 Competitors: Paypal, Venmo, Zelle. The official website of apple pay :
 	https://www.apple.com/apple-pay/<h2>
+	
+	<p align-center> ![Alternative text](https://user-images.githubusercontent.com/5318312/100043327-30845a00-2ddb-11eb-9d5c-f6076b3bbb65.png) <p>
   
 ![Alternative text](https://www.dcecu.org/assets/images/apple-pay-mark-web.jpg)
 
@@ -33,4 +35,4 @@ Apple's notable strength is scale and distribution to it’s large customer base
 Apple is now a $2 Trillion company and has no signs of slowing down even in the midst of the pandemic. Apple is expected to disrupt and invent future technology for years to come.
 <h3>
 
-![Alternative text](https://user-images.githubusercontent.com/5318312/100043327-30845a00-2ddb-11eb-9d5c-f6076b3bbb65.png)
+
